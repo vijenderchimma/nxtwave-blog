@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.contact-player {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.contact-image {
+  width: 300px;
+  height: 300px;
+}
+.contact-para {
+  color: #6d396b;
+}
